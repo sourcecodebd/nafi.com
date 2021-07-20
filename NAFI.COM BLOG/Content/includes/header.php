@@ -19,7 +19,7 @@
             </li>
 
             <li class="nav-item">
-              <a class="nav-link" href="https://sourcebd.github.io/nafi.com/">NAFI.COM</a>
+              <a class="nav-link" href="https://sourcecodebd.github.io/nafi.com/">NAFI.COM</a>
             </li>
   
   
